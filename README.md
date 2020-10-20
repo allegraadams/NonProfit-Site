@@ -6,6 +6,10 @@ The non-profit site is a clean build with easy nto add workshops (per client req
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/madelyneriksen/NonProfitSite)
 
+## Thumbnail
+![Screen Shot 2020-10-20 at 1 12 12 PM](https://user-images.githubusercontent.com/56889853/96627546-a5dda600-12d6-11eb-98a2-702193bc9af5.png)
+![Screen Shot 2020-10-20 at 1 12 26 PM](https://user-images.githubusercontent.com/56889853/96627560-aa09c380-12d6-11eb-89df-4c3bccda698b.png)
+
 ## Getting Started
 
 The first step is customizing your metadata in `gatsby-config.js`.

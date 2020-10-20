@@ -8,7 +8,7 @@ The non-profit site is a clean build with easy nto add workshops (per client req
 
 ## Getting Started
 
-The first step with using Tyra is customizing your metadata in `gatsby-config.js`.
+The first step is customizing your metadata in `gatsby-config.js`.
 
 ```javascript
 siteMetadata: {
